@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+}
+
+canvas {
+    border: none;
+    color: white;
+    margin: 0; 
+    padding: 0;     
+    top: 0;
+    left: 0;
+}
+
+.stats {
+	color: white;
+	display: flex;
+	justify-content: center;
+}
+
+#false_div {
+	margin: 0px 10px;
+}
+
+#true_div {
+	margin: 0px 10px;
+}
